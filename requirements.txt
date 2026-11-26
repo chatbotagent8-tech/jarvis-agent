@@ -1,5 +1,0 @@
-streamlit
-google-genai
-openpyxl
-python-docx
-gspread
